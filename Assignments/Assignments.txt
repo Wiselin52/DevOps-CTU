@@ -29,7 +29,7 @@ https://try.github.io/
 
 ============================================================================
 
-			Exercise 2
+			Assignment 2
 
 Install TomCat9.
 Install Jenkins 2.7.3
@@ -48,3 +48,19 @@ Take a screenshot for the command “env” and attach along with the example sc
 For a good grade, you can come up with any other maven example with detailed explanation.
 
 ============================================================================
+			Assignment 4
+
+Install Docker on your Virtural Box/Machine and run the hello world container.
+
+============================================================================
+			Assignment 5
+
+Build MongoDB docker Image.
+
+
+============================================================================
+			Assignment 6
+
+Follow the instruction in the below link and setup a Standalone environment: 
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-masterless-puppet-environment-on-ubuntu-14-04
