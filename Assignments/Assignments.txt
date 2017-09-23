@@ -1,0 +1,66 @@
+﻿
+
+
+Instructions for submitting the assignment:
+1. Assignments need to be submitted. Exercises are for your learning.
+2. Take Screenshots as they are visible and paste them in a word document. 
+3. Follow the instructions in this video to upload your assignments to Wiselin's Github repository: 
+https://www.youtube.com/watch?v=vShvxeaZ2R8&t=502s
+
+			Assignment 1
+
+Install VirtualBox
+Install CentOS 7
+Create a user as your first letter in the first name and last name.
+               Ex: Kranthi kavuri = kkavuri
+Go to your home directory.
+Create subdirectories in your home directory with your username + 1 & 2.
+Create a file with your username.
+Change the permissions for the file to read and write but not execute.
+Change the permission for the file to read and execute but not write.
+Write two lines in a file and display it to the screen.
+
+============================================================================
+
+			Exercise 1
+
+Follow the link to try git commands:
+https://try.github.io/
+
+============================================================================
+
+			Assignment 2
+
+Install TomCat9.
+Install Jenkins 2.7.3
+
+============================================================================
+			Assignment 3
+
+
+Follow the steps in the below link to replicate the example:
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
+Take a screenshot for the command “env” and attach along with the example screen’s in a word document.
+
+
+For a good grade, you can come up with any other maven example with detailed explanation.
+
+============================================================================
+			Assignment 4
+
+Install Docker on your Virtural Box/Machine and run the hello world container.
+
+============================================================================
+			Assignment 5
+
+Build MongoDB docker Image.
+
+
+============================================================================
+			Assignment 6
+
+Follow the instruction in the below link and setup a Standalone environment: 
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-masterless-puppet-environment-on-ubuntu-14-04
